@@ -7,8 +7,8 @@ from pyrogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessa
 
 
 app = Client(session_name="AQBJjYTKWs3qtJOXXDIhq79q2vXMSgL8Y81h98G4JyL8CVqRa_JUIV54E20qsdcBRkzdm7_xKUHqrsCEpGDX7eEU5J9yY50ZnsnFCdSlwuG3RxIEt88vstparvPP84DfaY2Jgu0xcQWH1CHkl2ZEZ35QcfHlMariomHpV9qafbjSz6s63CwcAu3itzQg8C2agxGQkI_3PRNZUflCwyUpHz8uO8ifHmLjt3EtK2G2sOWbnNHwEbugc8xEhjjoNEEmP-Rb4Dxyi1K8pjGUzuZjazBuWOaX4JQ4HIqFIsV1Jx2HxDxTcSrrngSxoiHnKjPtW2m6PrUjVzUpsG64wGKjqKouVTEDbQA",
-             api_id=os.environ.get("7319490"),
-             api_hash=os.environ.get("3987ed5fcb72635ca4da8c5e93ec7493"),
+             api_id=os.environ.get("0"),
+             api_hash=os.environ.get("0"),
              bot_token=os.environ.get("1372871302:AAHgASFkahx1mmaq-QvdTGtGYYD_7aWeUkA")
              )
 
